@@ -7,5 +7,5 @@ function zGetBalance(zaddr) {
 
 module.exports = {
     zGetBalance,
-    
+
 }
